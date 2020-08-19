@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a34ac25ad953e5ec381ab1d77ab713a",
+    "revision": "4fe6f4580de7111e430e5116ea0451f3",
     "url": "/JonathanSchackwebsite/index.html"
   },
   {
-    "revision": "d0ac244f7a00fa45f03b",
+    "revision": "a74b790fafebfe961fec",
     "url": "/JonathanSchackwebsite/static/css/main.f90fa6c6.chunk.css"
   },
   {
-    "revision": "b9f3e5b1541e71845f76",
-    "url": "/JonathanSchackwebsite/static/js/2.1427a62a.chunk.js"
+    "revision": "33cf26afddc448a6ae20",
+    "url": "/JonathanSchackwebsite/static/js/2.2b4d6e3d.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/JonathanSchackwebsite/static/js/2.1427a62a.chunk.js.LICENSE.txt"
+    "url": "/JonathanSchackwebsite/static/js/2.2b4d6e3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0ac244f7a00fa45f03b",
-    "url": "/JonathanSchackwebsite/static/js/main.1c6b1cb2.chunk.js"
+    "revision": "a74b790fafebfe961fec",
+    "url": "/JonathanSchackwebsite/static/js/main.7000b3c2.chunk.js"
   },
   {
     "revision": "e06d910470dd68d014b5",
     "url": "/JonathanSchackwebsite/static/js/runtime-main.6c001410.js"
+  },
+  {
+    "revision": "402f22dd942fd94300f9d9ebdfde71df",
+    "url": "/JonathanSchackwebsite/static/media/astronaut.402f22dd.jpg"
   },
   {
     "revision": "9321aacae3e30af8ddbf53778e4d8f94",
