@@ -1,6 +1,7 @@
 /* eslint-disable */
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import Astronaut from "./image/astronaut.jpg";
 
 class Navbar extends Component {
   render() {
@@ -23,6 +24,7 @@ class Navbar extends Component {
           to={"/JonathanSchackwebsite"}
           title="Home"
         >
+           <img src={Astronaut} className="dib w2 h2 br-100" alt="Site Name" />
         </Link>
         <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
           <Link
