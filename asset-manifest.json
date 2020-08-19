@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JonathanSchackwebsite/static/css/main.f90fa6c6.chunk.css",
+    "main.js": "/JonathanSchackwebsite/static/js/main.b4644004.chunk.js",
+    "main.js.map": "/JonathanSchackwebsite/static/js/main.b4644004.chunk.js.map",
+    "runtime-main.js": "/JonathanSchackwebsite/static/js/runtime-main.6c001410.js",
+    "runtime-main.js.map": "/JonathanSchackwebsite/static/js/runtime-main.6c001410.js.map",
+    "static/js/2.1427a62a.chunk.js": "/JonathanSchackwebsite/static/js/2.1427a62a.chunk.js",
+    "static/js/2.1427a62a.chunk.js.map": "/JonathanSchackwebsite/static/js/2.1427a62a.chunk.js.map",
+    "index.html": "/JonathanSchackwebsite/index.html",
+    "precache-manifest.43243f5dab010ce1dc6e36edab9215fc.js": "/JonathanSchackwebsite/precache-manifest.43243f5dab010ce1dc6e36edab9215fc.js",
+    "service-worker.js": "/JonathanSchackwebsite/service-worker.js",
+    "static/css/main.f90fa6c6.chunk.css.map": "/JonathanSchackwebsite/static/css/main.f90fa6c6.chunk.css.map",
+    "static/js/2.1427a62a.chunk.js.LICENSE.txt": "/JonathanSchackwebsite/static/js/2.1427a62a.chunk.js.LICENSE.txt",
+    "static/media/hi.jpg": "/JonathanSchackwebsite/static/media/hi.9321aaca.jpg",
+    "static/media/me.jpg": "/JonathanSchackwebsite/static/media/me.a7656881.jpg",
+    "static/media/rocket1.gif": "/JonathanSchackwebsite/static/media/rocket1.029ea0d7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c001410.js",
+    "static/js/2.1427a62a.chunk.js",
+    "static/css/main.f90fa6c6.chunk.css",
+    "static/js/main.b4644004.chunk.js"
+  ]
+}
