@@ -30,7 +30,7 @@ class App extends Component {
           <div className="">
             <Navbar />
             <div className="contentBody">
-              <Route exact path="/JonathanSchackwebsite" component={Landing} />
+              <Route exact path="/" component={Landing} />
               <Route exact path="/about" component={About} />
               <Route
                 exact

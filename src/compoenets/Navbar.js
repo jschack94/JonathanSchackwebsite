@@ -21,7 +21,7 @@ class Navbar extends Component {
         <Link
           id="home"
           className="db dtc-l v-mid mid-gray link dim w-100 w-25-l tc tl-l mb2 mb0-l"
-          to={"/JonathanSchackwebsite"}
+          to={"/"}
           title="Home"
         >
            <img src={Astronaut} className="dib w2 h2 br-100" alt="Site Name" />
