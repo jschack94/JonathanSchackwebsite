@@ -4,7 +4,7 @@ const projectList = [
       type: 'FULLSTACK PROJECT',
       tech: 'React, Redux HTML, CSS, Rails, Action Cable, PostgreSQL, Material UI',
       description: 'Bloom is a web application that helps you develop your professional network in a meaningful way by creating a direct path between mentor and mentee relationships',
-      live: 'bloom-frontend.herokuapp.com.',
+      live: 'https://bloom-frontend.herokuapp.com.',
       picture: 'https://i.imgur.com/kLIvPAN.png',
       github: 'https://github.com/jschack94/Bloom-Frontend',
     },
@@ -14,7 +14,7 @@ const projectList = [
       tech: 'Ruby, Rails, CSS, HTML, MySQL, OAUTH',
       description: 'A hiking app that allows users to search, create, edit and delete trails from a mySQL database. Users are able to also interact with other users using a comment section.',
       picture: 'https://i.imgur.com/170tUmO.png',
-      live: 'take-a-hike-web.herokuapp.com/',
+      live: 'https://take-a-hike-web.herokuapp.com/',
       github: 'https://github.com/jschack94/Take-a-Hike-Ruby-on-Rails',
     },
     {
